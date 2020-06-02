@@ -51,9 +51,9 @@
           href: devtools-guide/whats-new/edgehtml-17.md
         - name: EdgeHTML 16
           href: devtools-guide/whats-new/edgehtml-16.md
-      - name: Elements
-        href: devtools-guide/elements.md
-        items: 
+    - name: Elements
+      href: devtools-guide/elements.md
+      items: 
         - name: Styles
           href: devtools-guide/elements/styles.md
         - name: Computed
