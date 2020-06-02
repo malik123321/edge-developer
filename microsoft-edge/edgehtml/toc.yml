@@ -1,5 +1,5 @@
 - name: EdgeHTML (legacy)
-  href: index.md
+  href: index.yml
 - name: Dev Guide EdgeHTML (Legacy)
   href: dev-guide/index.md
   items: 
@@ -189,8 +189,6 @@
               href: extensions/guides/packaging/running-the-windows-app-certification-kit.md
         - name: Porting Chrome extensions
           href: extensions/guides/porting-Chrome-extensions.md
-    - name: Microsoft browser extension policy
-      href: extensions/microsoft-browser-extension-policy.md
     - name: Tips and tricks
       href: extensions/tips-and-tricks.md
     - name: Troubleshooting
@@ -198,19 +196,19 @@
 - name: Performance analysis EdgeHTML (Legacy)
   href: performance-analysis/index.md
 - name: Progressive Web Apps EdgeHTML (Legacy)
-  href: progressive-web-apps-edgehtml/index.md
+  href: progressive-web-apps/index.md
   items: 
     - name: Get started with PWAs (EdgeHTML)
-      href: progressive-web-apps-edgehtml/get-started.md
+      href: progressive-web-apps/get-started.md
     - name: Tailor your PWA for Windows
-      href: progressive-web-apps-edgehtml/windows-features.md
+      href: progressive-web-apps/windows-features.md
       items: 
         - name: PWAs for Xbox
-          href: progressive-web-apps-edgehtml/xbox-considerations.md
+          href: progressive-web-apps/xbox-considerations.md
     - name: PWAs in the Microsoft Store
-      href: progressive-web-apps-edgehtml/microsoft-store.md
+      href: progressive-web-apps/microsoft-store.md
 - name: WebDriver EdgeHTML (Legacy)
-  href: webdriver.md
+  href: webdriver/index.md
 - name: Windows Runtime (WinRT) (Legacy)
   href: windows-runtime/toc.yml
   topicHref: windows-runtime/index.md
