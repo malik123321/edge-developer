@@ -1,4 +1,4 @@
-- name: EdgeHTML (legacy)
+- name: EdgeHTML (Legacy)
   href: index.yml
 - name: Dev Guide EdgeHTML (Legacy)
   href: dev-guide/index.md
