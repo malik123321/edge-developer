@@ -3,7 +3,7 @@ description: Use Puppeteer to automate and test in Microsoft Edge
 title: Puppeteer
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 04/27/2020
+ms.date: 06/02/2020
 ms.topic: article
 ms.prod: microsoft-edge
 ms.technology: devtools
@@ -111,7 +111,7 @@ The Edge Developer team is eager to hear your feedback about using Puppeteer, `p
 <!-- links -->  
 
 [WebdriverChromiumMain]: ./webdriver-chromium.md "WebDriver (Chromium)"  
-[WebdriverEdgehtmlMain]: ./webdriver.md "WebDriver (EdgeHTML)"  
+[WebdriverEdgehtmlMain]: ./edgehtml/webdriver/index.md "WebDriver (EdgeHTML)"  
 
 [GithubChromedevtoolsProtocol]: https://chromedevtools.github.io/devtools-protocol "Chrome DevTools Protocol Viewer | GitHub"  
 

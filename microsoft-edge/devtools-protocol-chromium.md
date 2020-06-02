@@ -1,21 +1,21 @@
 ---
 description: Update to the Microsoft Edge DevTools Protocol
 title: Microsoft Edge DevTools Protocol Update
-author: zoherghadyali
-ms.author: zoghadya
-ms.date: 03/11/2019
+author: MSEdgeTeam
+ms.author: msedgedevrel
+ms.date: 06/02/2019
 ms.topic: reference
 ms.prod: microsoft-edge
 ---
 
 # Microsoft Edge (Chromium) DevTools Protocol
 
-With the shift in the underlying web platform of Microsoft Edge to Chromium, the [Microsoft Edge (EdgeHTML) DevTools Protocol](./devtools-protocol/index.md) will not be receiving any further updates. The Microsoft Edge (Chromium) DevTools Protocol will match the APIs of the Chrome DevTools Protocol going forward. 
+With the shift in the underlying web platform of Microsoft Edge to Chromium, the [Microsoft Edge (EdgeHTML) DevTools Protocol](./edgehtml/devtools-protocol/index.md) will not be receiving any further updates. The Microsoft Edge (Chromium) DevTools Protocol will match the APIs of the Chrome DevTools Protocol going forward. 
 
 You can find documentation on those domains and methods by referring to the [Chrome DevTools Protocol Viewer](https://chromedevtools.github.io/devtools-protocol/tot/).
 
 > [!NOTE]
-> Any methods that were prefixed with `ms` in the [Microsoft Edge (EdgeHTML) DevTools Protocol](./devtools-protocol/index.md) are no longer supported in the Microsoft Edge (Chromium) DevTools Protocol.
+> Any methods that were prefixed with `ms` in the [Microsoft Edge (EdgeHTML) DevTools Protocol](./edgehtml/devtools-protocol/index.md) are no longer supported in the Microsoft Edge (Chromium) DevTools Protocol.
 
 ## Using the DevTools Protocol
 

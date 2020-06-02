@@ -3,7 +3,7 @@ description: Learn how to test your website or app in Microsoft Edge or automate
 title: WebDriver (Chromium)
 author: MSEdgeTeam
 ms.author: msedgedevrel
-ms.date: 06/01/2020
+ms.date: 06/02/2020
 ms.topic: article
 ms.prod: microsoft-edge
 ms.technology: devtools
@@ -305,7 +305,7 @@ The Microsoft Edge team is eager to hear your feedback about using WebDriver, Se
 
 <!-- links -->  
 
-[Webdriver]: ./webdriver.md "WebDriver (EdgeHTML) | Microsoft Docs"  
+[Webdriver]: ./edgehtml/webdriver/index.md "WebDriver (EdgeHTML) | Microsoft Docs"  
 
 [Chocolatey]: https://chocolatey.org "Chocolatey | Chocolatey Software"  
 [ChocolateyPackagesSeleniumChromiumEdgeDriver]: https://chocolatey.org/packages/selenium-chromium-edge-driver "Selenium Chromium Edge Driver | Chocolatey"  
