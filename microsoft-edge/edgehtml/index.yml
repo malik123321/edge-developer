@@ -1,0 +1,72 @@
+### YamlMime:Landing
+
+title: Microsoft Edge Documentation for EdgeHTML (Legacy)
+summary: The developer documentation for the EdgeHTML-based Microsoft Edge browser based on EdgeHTML.   
+
+metadata:
+  title: Microsoft Edge Documentation for EdgeHTML (Legacy)
+  description: Developer documentation for the EdgeHTML-based Edge Browser
+  ms.service: m365 #Required; service per approved list. service slug assigned to your service by ACOM.
+  ms.topic: landing-page
+  author: MSEdgeTeam
+  ms.author: msedgedevrel
+  ms.date: 06/02/2020
+
+# linkListType: architecture | concept | deploy | download | get-started | how-to-guide | learn | overview | quickstart | reference | sample | tutorial | video | whats-new
+
+landingContent:
+# Cards and links should be based on top customer tasks or top subjects
+# Start card title with a verb
+  # Card (optional)
+  - title: Dev Guide EdgeHTML (Legacy)
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Microsoft Edge Developer Guide
+            url: dev-guide/index.md
+      - linkListType: concept
+        links:
+          - text: Performance Analysis
+            url: performance-analysis/index.md
+
+  # Card (optional)
+  - title: DevTools Guide and Protocol EdgeHTML (Legacy)
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Microsoft Edge (EdgeHTML) Developer Tools
+            url: devtools-guide/index.md
+          - text: Microsoft Edge (EdgeHTML) DevTools Protocol
+            url: devtools-protocol/index.md
+
+  # Card
+  - title: Extensions EdgeHTML (Legacy)
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Microsoft Edge (EdgeHTML) extensions
+            url: extensions/index.md
+
+  # Card
+  - title: Progressive Web Apps EdgeHTML (Legacy)
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Progressive Web Apps (EdgeHTML) on Windows
+            url: progressive-web-apps/index.md
+
+  # Card
+  - title: WebDriver EdgeHTML (Legacy)
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: WebDriver (EdgeHTML)
+            url: webdriver/index.md
+
+  # Card
+  - title: Windows Runtime (WinRT) EdgeHTML (Legacy)
+    linkLists:
+      - linkListType: overview
+        links:
+          - text: Windows Runtime (WinRT) for JavaScript
+            url: windows-runtime/index.md

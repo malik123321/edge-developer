@@ -301,22 +301,24 @@ additionalContent:
         # Card
         - title: Microsoft Edge Legacy Documentation
           links:
+            - text: EdgeHTML (Legacy)
+              url: /microsoft-edge/edgehtml/index
             - text: Dev Guide (EdgeHTML)
-              url: /microsoft-edge/dev-guide
+              url: /microsoft-edge/edgehtml/dev-guide/index
             - text: DevTools (EdgeHTML)
-              url: /microsoft-edge/devtools-guide
+              url: /microsoft-edge/edgehtml/devtools-guide/index
             - text: DevTools Protocol (EdgeHTML)
-              url: /microsoft-edge/devtools-protocol/index
+              url: /microsoft-edge/edgehtml/devtools-protocol/index
             - text: Extensions (EdgeHTML)
-              url: /microsoft-edge/extensions/index
+              url: /microsoft-edge/edgehtml/extensions/index
             - text: Getting Started with PWAs (EdgeHTML)
-              url: /microsoft-edge/progressive-web-apps-edgehtml/get-started
+              url: /microsoft-edge/edgehtml/progressive-web-apps/get-started
             - text: JavaScript Runtime Hosting
               url: /microsoft-edge/hosting/javascript-runtime-hosting
             - text: WebVR Developer Guide
               url: /microsoft-edge/webvr/index
             - text: Windows Runtime (WinRT)
-              url: /microsoft-edge/windows-runtime
+              url: /microsoft-edge/edgehtml/windows-runtime
     - title: Help & Support # < 60 chars (optional)
       # summary: sectionsummary # < 160 chars (optional)
       items:
